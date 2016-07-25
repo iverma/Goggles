@@ -1,0 +1,6 @@
+Following a useful tips for running this module:
+
+
+1) Before running sql_loader please install mysql-connector module from: https://dev.mysql.com/downloads/connector/python/
+2) Database is hosted at: https://www.gearhost.com/
+3) To manually run MySQL queries you would need to install the client MySqlWorkbench from oracle site
